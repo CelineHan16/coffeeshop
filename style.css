@@ -5,31 +5,76 @@ body {
 * {
   box-sizing: border-box;
 }
-header {
-  position: absolute;
-  width: 100vw;
-  height: 1126px;
-  left: 0px;
+.container {
+  width: 980px;
+  margin: 0 auto; 
+  padding: .5rem;
+} 
+
+[class^="col"] {
+  font-size: 17px;
+  padding: 0 .5rem;
 }
+.col {
+  flex: 1 0 0;
+
+}
+.col-auto {
+  flex: 0 0 auto;
+}
+.col-1 {
+  flex: 0 0 8.33333333%;
+}
+.col-2 {
+  flex: 0 0 16.66666667%;
+}
+.col-3 {
+  flex: 0 0 25%;
+}
+.col-4 {
+  flex: 0 0 33.3333333%;
+}
+.col-5 {
+  flex: 0 0 41.66666667%;
+}
+.col-6 {
+  flex: 0 0 50%;
+}
+.col-7 {
+  flex: 0 0 58.333333333%;
+}
+.col-8 {
+  flex: 0 0 66.66666667%;
+}
+.col-9 {
+  flex: 0 0 75%;
+}
+.col-10 {
+  flex: 0 0 83.33333333%;
+}
+.col-11 {
+  flex: 0 0 96.66666667%;
+}
+.col-12 {
+  flex: 0 0 100%;
+}
+
 .navbar {
+  height: 80px;
+}
+.navbar .container {
   display: flex;
   justify-content: space-between;
-  position: absolute;
-  width: 100vw;
-  left: 0px;
-  top: 0px;
+  width: 980px; 
+  padding: .5rem 0;
 }
 .navbar ul {
   display: flex;
   list-style-type: none;
-  padding-left: 200px;
-  margin-top: 20px;
+  margin: 0;
+  padding: 0;
 }
-.navbar ul:last-of-type {
-  padding-left: 0;
-  padding-right: 200px;
-  padding-left: 50px;
-}
+
 .navbar ul li {
   padding: 17px;
 }
@@ -38,7 +83,18 @@ header {
 }
 .navbar ul li a {
   text-decoration: none;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: white;
   font-size: 12px;
+  letter-spacing: .3px;
+}
+.navbar ul li a.color-brown {
+  color: #C99E71;
+  font-weight: 600;
+}
+header {
+  background-image: url(./images-icons/bg-image.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 85vh;
 }
