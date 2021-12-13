@@ -6,6 +6,13 @@ body {
   box-sizing: border-box;
 }
 
+.row {
+  display: flex;
+  gap: 15px;
+}
+/* [class^="col"] {
+  padding: 10px;
+} */
 .col {
   flex: 1 0 0;
 }
@@ -97,7 +104,6 @@ main {
 .container {
   max-width: 828px;
   margin: 0 auto;
-  display: flex;
 }
 main .intro-title {
   font-family: Righteous;
@@ -163,4 +169,7 @@ main .test-coffee a {
 .step-number {
   color: #C99E71;
   margin-right: 5px;
+}
+.history-2 {
+  margin-top: 15px;
 }
