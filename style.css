@@ -150,7 +150,7 @@ main .test-coffee a {
   margin-top: 335px;
 }
 .process {
-  padding: 70px 0;
+  margin: 70px 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 28px;
@@ -171,5 +171,5 @@ main .test-coffee a {
   margin-right: 5px;
 }
 .history-2 {
-  margin-top: 15px;
+  margin-top: 18px;
 }
