@@ -170,6 +170,13 @@ main .test-coffee a {
   color: #C99E71;
   margin-right: 5px;
 }
-.history-2 {
+.history {
+  margin: 70px 0;
+  justify-content: space-between;
+}
+.history-2-img {
   margin-top: 18px;
+}
+.our-history-card {
+  background-color: #1C1814;
 }
