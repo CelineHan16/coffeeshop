@@ -8,7 +8,7 @@ body {
 
 .row {
   display: flex;
-  gap: 15px;
+  
 }
 /* [class^="col"] {
   padding: 10px;
@@ -102,7 +102,7 @@ main {
   height: 84vh;
 }
 .container {
-  max-width: 828px;
+  max-width: 835px;
   margin: 0 auto;
 }
 main .intro-title {
@@ -153,7 +153,7 @@ main .test-coffee a {
   margin: 70px 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  column-gap: 28px;
+  column-gap: 27px;
 }
 .process-card {
   grid-column: span 1;
@@ -178,5 +178,6 @@ main .test-coffee a {
   margin-top: 18px;
 }
 .our-history-card {
-  background-color: #1C1814;
+  background-color: #1a1511;
+  padding: 100px 50px 0;
 }
