@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: #1c1814;
+  
 }
 * {
   box-sizing: border-box;
@@ -178,6 +179,32 @@ main .test-coffee a {
   margin-top: 18px;
 }
 .our-history-card {
-  background-color: #1a1511;
-  padding: 100px 50px 0;
+  background-color: #201b15;
+  padding: 90px 35px 0;
+  height: 468.78px;
+}
+.our-history-card h6 {
+  font-family: "Urbanist", sans-serif;
+  color: #c99e71d2;
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+.our-history-card .create-history {
+  color: #ffffff;
+  font-family: Righteous;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0.3px;
+  margin: 0;
+}
+.our-history-card .history-txt {
+  font-family: "Urbanist", sans-serif;
+  text-transform: capitalize;
+  color: #ffffff9d;
+  font-size: 11px;
+  letter-spacing: .5px;
+  line-height: 24px;
+  margin-bottom: 0;
+  margin-top: 25px;
 }
