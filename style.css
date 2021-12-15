@@ -130,13 +130,13 @@ main .intro-subtitle {
 main .intro {
   padding-top: 60px;
 }
-main .btn {
+.btn {
   width: 142px;
   padding: 17px 15px;
   background-color: #c99e71;
   border: 0;
 }
-main .btn a {
+.btn a {
   text-decoration: none;
   color: white;
   text-transform: uppercase;
@@ -183,14 +183,14 @@ main .btn a {
   padding: 90px 35px 0;
   height: 468.78px;
 }
-.our-history-card h6 {
+h6 {
   font-family: "Urbanist", sans-serif;
   color: #c99e71d2;
   font-size: 14px;
   margin-top: 0;
   margin-bottom: 12px;
 }
-.our-history-card .create-history {
+.head {
   color: #ffffff;
   font-family: Righteous;
   font-size: 32px;
@@ -198,7 +198,7 @@ main .btn a {
   letter-spacing: 0.3px;
   margin: 0;
 }
-.our-history-card .history-txt {
+.card-txt {
   font-family: "Urbanist", sans-serif;
   text-transform: capitalize;
   color: #ffffff9d;
