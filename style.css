@@ -130,13 +130,13 @@ main .intro-subtitle {
 main .intro {
   padding-top: 60px;
 }
-main .test-coffee {
+main .btn {
   width: 142px;
   padding: 17px 15px;
   background-color: #c99e71;
   border: 0;
 }
-main .test-coffee a {
+main .btn a {
   text-decoration: none;
   color: white;
   text-transform: uppercase;
