@@ -213,8 +213,11 @@ h6 {
   text-align: center;
 }
 .popular-product-card {
-  padding: 35px;
+  padding: 40px;
   margin-top: 50px;
   background: #121315;
 
+}
+.txt-upper {
+  text-transform: uppercase;
 }
