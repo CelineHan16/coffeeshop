@@ -172,7 +172,7 @@ main .intro {
   margin-right: 5px;
 }
 .history {
-  margin: 70px 0;
+  margin: 80px 0;
   justify-content: space-between;
 }
 .history-2-img {
@@ -207,4 +207,7 @@ h6 {
   line-height: 24px;
   margin-bottom: 0;
   margin-top: 25px;
+}
+.center-txt {
+  text-align: center;
 }
