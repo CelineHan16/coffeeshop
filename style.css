@@ -211,3 +211,7 @@ h6 {
 .center-txt {
   text-align: center;
 }
+.popular-product-card {
+  padding: 25px;
+  margin-top: 50px;
+}
