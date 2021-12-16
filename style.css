@@ -222,3 +222,18 @@ h6 {
   text-transform: uppercase;
   padding: 10px 0;
 }
+.btn-shop {
+  margin: 0 auto;
+  padding: 5px;
+  min-width: 100px;
+}
+.btn-shop a {
+  font-size: 12px;
+  text-transform: none;
+  font-family: 'Urbanist';
+  margin-left: 5px;
+}
+.btn-shop img, a {
+  display: inline-block;
+  vertical-align: middle;
+}
