@@ -287,8 +287,29 @@ h6 {
 }
 .gray-card {
   background-color: #201b15;
-  padding: 20px;
+  padding: 25px;
 }
 .phead {
   margin: 0;
+}
+.customer-img {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.white-urbanist {
+  font-family: "Urbanist", sans-serif;
+  color: #ffffffde;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+.rating {
+  justify-content: space-between;
+}
+.specialty {
+  font-size: 10px;
+}
+.rating-stars {
+  gap: 2px;
+  vertical-align: top;
 }
