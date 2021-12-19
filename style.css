@@ -257,6 +257,7 @@ h6 {
 .brown {
   font-family: "Urbanist", sans-serif;
   color: #c99e71d2;
+  font-size: 14px;
 }
 .btn-product {
   padding: 13px 30px;
@@ -265,10 +266,15 @@ h6 {
   background-color: #201b15;
   padding: 50px;
 }
+.popular-menu {
+  margin-top: 40px;
+}
 .americano-card {
   padding: 15px;
-  border: 1px solid rgba(90, 84, 84, 0.418);
+  border: 1px solid rgba(68, 67, 67, 0.712);
   align-items: center;
+  gap: 15px;
+  margin-bottom: 25px;
 } 
 .coffee-menu {
   text-decoration: none;
@@ -277,4 +283,8 @@ h6 {
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.3px;
+}
+.coffee-price {
+  flex-grow: 1;
+  text-align: right;
 }
