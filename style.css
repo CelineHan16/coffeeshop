@@ -317,3 +317,43 @@ h6 {
   margin-top: 25px;
   justify-content: space-between;
 }
+h5 {
+  margin: 0;
+  margin-bottom: 10px;
+}
+.six-p {
+  width: 100px;
+  background-color: #241e17;
+  height: 3px;
+  border-radius: 50px;
+}
+.two-p {
+  width: 35px;
+  background-color: #c99e71d2;
+  height: 3px;
+  border-radius: 50px 0 0 50px;
+}
+.arrows {
+  gap: 10px;
+}
+.arrow-left {
+  background-color: #121315;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 8px;
+  text-decoration: none;
+  color: white; 
+}
+.arrow-right {
+  background-color: #c99e71d2;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: 600;
+  padding: 8px;
+  text-decoration: none;
+  color: black;  
+}
