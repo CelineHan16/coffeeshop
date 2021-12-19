@@ -206,7 +206,7 @@ h6 {
   font-size: 11px;
   letter-spacing: .5px;
   line-height: 24px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   margin-top: 25px;
 }
 .center-txt {
@@ -261,4 +261,8 @@ h6 {
 }
 .btn-product {
   padding: 13px 30px;
+}
+.grey-card {
+  background-color: #201b15;
+  padding: 50px;
 }
