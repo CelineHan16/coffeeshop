@@ -9,7 +9,6 @@ body {
 
 .row {
   display: flex;
-  justify-content: space-between;
   gap: 25px;
 }
 /* [class^="col"] {
@@ -173,7 +172,7 @@ main .intro {
   margin-right: 5px;
 }
 .history {
-  margin: 80px 0;
+  margin: 100px 0;
   justify-content: space-between;
 }
 .history-2-img {
@@ -265,4 +264,17 @@ h6 {
 .grey-card {
   background-color: #201b15;
   padding: 50px;
+}
+.americano-card {
+  padding: 15px;
+  border: 1px solid rgba(90, 84, 84, 0.418);
+  align-items: center;
+} 
+.coffee-menu {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: Righteous;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.3px;
 }
