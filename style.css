@@ -313,3 +313,7 @@ h6 {
   gap: 2px;
   vertical-align: top;
 }
+.rating-bar {
+  margin-top: 25px;
+  justify-content: space-between;
+}
