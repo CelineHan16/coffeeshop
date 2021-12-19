@@ -219,7 +219,6 @@ h6 {
 
 }
 .coffee-bag {
-  margin-bottom: 15px;
 }
 .txt-upper {
   text-transform: uppercase;
@@ -243,6 +242,7 @@ h6 {
 }
 .starred {
   font-size: 12px;
+  margin-top: 20px;
 }
 .stars {
   vertical-align: top;
