@@ -376,3 +376,12 @@ h5 {
 .booking_form:last-of-type {
   margin-bottom: 40px;
 }
+.news-img {
+  width: 100%;
+}
+.news-card {
+  background-color: #201b15;
+}
+.news-card_info {
+  padding: 15px;
+}
