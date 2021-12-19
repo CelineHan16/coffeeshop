@@ -197,6 +197,7 @@ h6 {
   line-height: 40px;
   letter-spacing: 0.3px;
   margin: 0;
+  margin-bottom: 40px;
 }
 .card-txt {
   font-family: "Urbanist", sans-serif;
@@ -214,7 +215,6 @@ h6 {
 .popular-product-card {
   padding: 40px;
   padding-bottom: 30px;
-  margin-top: 50px;
   margin-bottom: 40px;
   background: #121315;
 }
@@ -266,9 +266,6 @@ h6 {
   background-color: #201b15;
   padding: 50px;
 }
-.popular-menu {
-  margin-top: 40px;
-}
 .americano-card {
   padding: 15px;
   border: 1px solid rgba(68, 67, 67, 0.404);
@@ -287,4 +284,11 @@ h6 {
 .coffee-price {
   flex-grow: 1;
   text-align: right;
+}
+.gray-card {
+  background-color: #201b15;
+  padding: 20px;
+}
+.phead {
+  margin: 0;
 }
