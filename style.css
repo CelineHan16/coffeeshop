@@ -132,7 +132,7 @@ main .intro {
   padding-top: 60px;
 }
 .btn {
-  width: 142px;
+  width: auto;
   padding: 17px 15px;
   background-color: #c99e71;
   border: 0;
@@ -226,6 +226,7 @@ h6 {
 }
 .btn-shop {
   margin-top: 15px;
+  margin-left: 35px;
   padding: 10px;
   width: 120px;
   cursor: pointer;
