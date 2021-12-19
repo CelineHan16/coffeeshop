@@ -218,14 +218,18 @@ h6 {
   background: #121315;
 
 }
+.coffee-bag {
+  margin-bottom: 15px;
+}
 .txt-upper {
   text-transform: uppercase;
-  padding: 10px 0;
+  
 }
 .btn-shop {
-  margin: 0 auto;
+  margin-top: 15px;
   padding: 10px;
   width: 120px;
+  cursor: pointer;
 }
 .btn-shop a {
   font-size: 12px;
@@ -236,4 +240,10 @@ h6 {
 .btn-shop img, a {
   display: inline-block;
   vertical-align: middle;
+}
+.starred {
+  font-size: 12px;
+}
+.stars {
+  vertical-align: top;
 }
