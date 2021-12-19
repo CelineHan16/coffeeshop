@@ -216,6 +216,7 @@ h6 {
   padding: 40px;
   padding-bottom: 30px;
   margin-top: 50px;
+  margin-bottom: 40px;
   background: #121315;
 }
 .coffee-bag {
@@ -226,7 +227,6 @@ h6 {
 }
 .btn-shop {
   margin-top: 15px;
-  margin-left: 35px;
   padding: 10px;
   width: 120px;
   cursor: pointer;
