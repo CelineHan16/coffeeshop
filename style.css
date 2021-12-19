@@ -385,3 +385,10 @@ h5 {
 .news-card_info {
   padding: 15px;
 }
+.news-content {
+  color: #ffffff;
+  font-family: Righteous;
+  font-size: 15px;
+  line-height: 30px;
+  letter-spacing: 0.3px;
+}
