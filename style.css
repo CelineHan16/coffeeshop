@@ -214,15 +214,15 @@ h6 {
 }
 .popular-product-card {
   padding: 40px;
+  padding-bottom: 30px;
   margin-top: 50px;
   background: #121315;
-
 }
 .coffee-bag {
+  margin-bottom: 8px;
 }
 .txt-upper {
-  text-transform: uppercase;
-  
+  text-transform: uppercase; 
 }
 .btn-shop {
   margin-top: 15px;
@@ -246,4 +246,15 @@ h6 {
 }
 .stars {
   vertical-align: top;
+}
+.price {
+  font-family: "Inter", sans-serif;
+  color: white;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 21.78px;
+}
+.brown {
+  font-family: "Urbanist", sans-serif;
+  color: #c99e71d2;
 }
