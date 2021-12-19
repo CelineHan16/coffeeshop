@@ -347,7 +347,7 @@ h5 {
   color: white; 
 }
 .arrow-right {
-  background-color: #c99e71d2;
+  background-color: #c99e71;
   width: 38px;
   height: 38px;
   border-radius: 50%;
@@ -356,4 +356,7 @@ h5 {
   padding: 8px;
   text-decoration: none;
   color: black;  
+}
+.booking {
+  gap: 0;
 }
