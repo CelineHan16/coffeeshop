@@ -150,6 +150,9 @@ main .intro {
 .test-btn {
   padding: 17px 24px;
 }
+.test-btn a {
+  font-family: "Inter", sans-serif;
+}
 .play {
   flex-grow: 1;
   display: flex;
