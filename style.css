@@ -422,5 +422,11 @@ a.brown {
   font-size: 12px;
 }
 .email_form {
-  
+  background-color: #29221b;
+  border: 0;
+  border-radius: 25px;
+  padding: 15px;
+  font-family: "Urbanist", sans-serif;
+  font-size: 13px;
+  color: #ffffff;
 }
