@@ -147,6 +147,7 @@ main .intro {
   font-family: "Roboto", sans-serif;
   letter-spacing: 0.3px;
 }
+
 .play {
   flex-grow: 1;
   display: flex;
