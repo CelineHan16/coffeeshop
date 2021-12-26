@@ -83,7 +83,9 @@ footer nav img {
   margin: 0;
   padding: 0;
 }
-
+footer .navbar ul {
+  flex-grow: 1;
+}
 .navbar ul li {
   padding: 0 17px;
 }
@@ -418,4 +420,7 @@ h5 {
 a.brown {
   text-decoration: none;
   font-size: 12px;
+}
+.email_form {
+  
 }
