@@ -436,5 +436,6 @@ footer .history {
 .credit {
   padding: 30px;
   text-align: center;
-  font-family: "Urbanist", sans-serif;;
+  font-family: "Urbanist", sans-serif;
+  font-size: small;
 }
