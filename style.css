@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #1c1814;
+  background-color: #14110E;
   
 }
 * {
@@ -422,10 +422,10 @@ a.brown {
   font-size: 12px;
 }
 .email_form {
-  background-color: #29221b;
+  background-color: #1C1814;
   border: 0;
   border-radius: 25px;
-  padding: 15px;
+  padding: 17px;
   font-family: "Urbanist", sans-serif;
   font-size: 12px;
   color: #ffffff;
