@@ -99,6 +99,9 @@ footer nav img {
   letter-spacing: 0.5px;
   line-height: 21.78px;
 }
+footer .navbar ul li a {
+  font-family: "Urbanist", sans-serif;
+}
 .navbar ul li a.color-brown {
   color: #c99e71;
   font-weight: 700;
