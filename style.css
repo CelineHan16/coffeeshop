@@ -152,6 +152,8 @@ main .intro {
 }
 .test-btn a {
   font-family: "Inter", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
 }
 .play {
   flex-grow: 1;
