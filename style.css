@@ -74,6 +74,9 @@ nav {
 footer nav {
   justify-content: flex-start;
 }
+footer nav img {
+  margin-right: 17px;
+}
 .navbar ul {
   display: flex;
   list-style-type: none;
