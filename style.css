@@ -430,3 +430,9 @@ a.brown {
   font-size: 12px;
   color: #ffffff;
 }
+footer .history {
+  margin-bottom: 0;
+}
+.credit {
+  padding: 30px;
+}
