@@ -429,6 +429,7 @@ a.brown {
   font-family: "Urbanist", sans-serif;
   font-size: 12px;
   color: #ffffff;
+  width: 100%;
 }
 footer .history {
   margin-bottom: 30px;
