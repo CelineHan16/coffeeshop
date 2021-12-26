@@ -57,6 +57,9 @@ body {
   flex: 0 0 100%;
 }
 
+header {
+  background-color: #1c1814;
+}
 .navbar {
   max-width: 985px;
   margin: 0 auto;
