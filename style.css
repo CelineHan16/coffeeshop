@@ -154,6 +154,7 @@ main .intro {
   font-family: "Inter", sans-serif;
   font-size: 13px;
   font-weight: 500;
+  letter-spacing: 0ch;
 }
 .play {
   flex-grow: 1;
