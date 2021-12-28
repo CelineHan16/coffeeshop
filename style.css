@@ -88,7 +88,7 @@ footer nav img {
   padding: 0;
 }
 footer .navbar ul {
-  margin-right: 50px;
+  margin-right: 35px;
 }
 .navbar ul li {
   padding: 0 17px;
@@ -317,13 +317,15 @@ h6 {
   background-color: #201b15;
   padding: 25px;
 }
+.gray-card .row {
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.gray-card .card-txt {
+  line-height: 20px;
+}
 .phead {
   margin: 0;
-}
-.customer-img {
-  float: left;
-  margin-right: 15px;
-  margin-bottom: 15px;
 }
 .white-urbanist {
   font-family: "Urbanist", sans-serif;
@@ -400,6 +402,7 @@ h5 {
   font-size: 13px;
   color: #ffffff;
   margin-bottom: 15px;
+  outline: none;
 }
 .booking_form:last-of-type {
   margin-bottom: 40px;
@@ -428,12 +431,6 @@ a.brown {
 footer .history {
   margin-bottom: 30px;
 }
-footer .container {
-  max-width: 935px;
-}
-footer nav {
-  justify-content: flex-end;
-}
 .email_form {
   background-color: #1C1814;
   border: 0;
@@ -450,7 +447,6 @@ footer nav {
   font-family: "Urbanist", sans-serif;
   font-size: 12px;
   color: #ffffff;
-  width: 180px;
 }
 .arrow_btn {
   width: 32px;
