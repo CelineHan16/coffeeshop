@@ -452,11 +452,11 @@ footer nav {
   color: #ffffff;
   width: 180px;
 }
-.email_form .arrow-right {
+.email_form .arrow_btn {
   width: 32px;
   height: 32px;
-  color: white;
-  font-weight: 100;
+  background-color: #c99e71;
+  
 }
 .credit {
   padding: 30px;
