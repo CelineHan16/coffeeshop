@@ -439,6 +439,7 @@ footer nav {
   border: 0;
   border-radius: 28px;
   padding: 8px;
+  padding-left: 20px;
   display: flex;
 }
 .email_input {
