@@ -457,6 +457,7 @@ footer nav {
   height: 32px;
   background-color: #c99e71;
   border-radius: 50%;
+  display: flex;
   align-items: center;
 }
 .arrow_btn img {
