@@ -438,6 +438,9 @@ a.brown {
 footer .history {
   margin-bottom: 30px;
 }
+.email_form {
+  padding: 0;
+}
 .credit {
   padding: 30px;
   text-align: center;
