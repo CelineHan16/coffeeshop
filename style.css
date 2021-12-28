@@ -427,6 +427,8 @@ a.brown {
 }
 .email_input {
   background-color: transparent;
+  border: none;
+  outline: none;
   font-family: "Urbanist", sans-serif;
   font-size: 12px;
   color: #ffffff;
@@ -437,7 +439,7 @@ footer .history {
 .email_form {
   background-color: #1C1814;
   border: 0;
-  border-radius: 24px;
+  border-radius: 28px;
   padding: 8px;
   display: flex;
 }
