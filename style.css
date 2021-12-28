@@ -452,12 +452,15 @@ footer nav {
   color: #ffffff;
   width: 180px;
 }
-.email_form .arrow_btn {
+.arrow_btn {
   width: 32px;
   height: 32px;
   background-color: #c99e71;
   border-radius: 50%;
-  
+  align-items: center;
+}
+.arrow_btn img {
+  margin: 0;
 }
 .credit {
   padding: 30px;
