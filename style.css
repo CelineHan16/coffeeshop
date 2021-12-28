@@ -425,6 +425,22 @@ a.brown {
   text-decoration: none;
   font-size: 12px;
 }
+footer .history {
+  margin-bottom: 30px;
+}
+footer .container {
+  max-width: 935px;
+}
+footer nav {
+  justify-content: flex-end;
+}
+.email_form {
+  background-color: #1C1814;
+  border: 0;
+  border-radius: 28px;
+  padding: 8px;
+  display: flex;
+}
 .email_input {
   background-color: transparent;
   border: none;
@@ -433,19 +449,10 @@ a.brown {
   font-size: 12px;
   color: #ffffff;
 }
-footer .history {
-  margin-bottom: 30px;
-}
-footer .container {
-  max-width: 935px;
-  
-}
-.email_form {
-  background-color: #1C1814;
-  border: 0;
-  border-radius: 28px;
-  padding: 8px;
-  display: flex;
+.email_form .arrow-right {
+  width: 32px;
+  height: 32px;
+  color: white;
 }
 .credit {
   padding: 30px;
